@@ -1,0 +1,189 @@
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\ApplicationInsights.config
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\EmployeeDataAccess.dll.config
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\EmployeeDataAccess.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\EmployeeDataAccess.pdb
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\csc.exe
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\csc.exe.config
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\csc.rsp
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\csi.exe
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\csi.exe.config
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\csi.rsp
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.AppContext.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Console.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.IO.Compression.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.IO.Pipes.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.Claims.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.ValueTuple.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Xml.XPath.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\vbc.exe
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\vbc.exe.config
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\vbc.rsp
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\VBCSCompiler.exe
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Antlr3.Runtime.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\EntityFramework.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\EntityFramework.SqlServer.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.Web.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.ApplicationInsights.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Newtonsoft.Json.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Helpers.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Mvc.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Optimization.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Razor.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.WebPages.Deployment.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.WebPages.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.WebPages.Razor.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\WebGrease.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\EntityFramework.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\EntityFramework.SqlServer.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Helpers.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Mvc.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Optimization.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Razor.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.WebPages.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.WebPages.Deployment.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.WebPages.Razor.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Newtonsoft.Json.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Antlr3.Runtime.pdb
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.Web.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\ApplicationInsights.config
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\EmployeeDataAccess.dll.config
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\EmployeeDataAccess.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\EmployeeDataAccess.pdb
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\csc.exe
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\csc.exe.config
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\csc.rsp
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\csi.exe
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\csi.exe.config
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\csi.rsp
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.AppContext.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Collections.Immutable.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Console.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.IO.Compression.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.IO.FileSystem.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.IO.Pipes.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Reflection.Metadata.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.AccessControl.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.Claims.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Security.Principal.Windows.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.ValueTuple.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Xml.XPath.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\vbc.exe
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\vbc.exe.config
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\vbc.rsp
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\VBCSCompiler.exe
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\roslyn\VBCSCompiler.exe.config
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Antlr3.Runtime.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\EntityFramework.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\EntityFramework.SqlServer.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.Agent.Intercept.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.DependencyCollector.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.Web.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.WindowsServer.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.ApplicationInsights.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.Web.Infrastructure.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Newtonsoft.Json.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Diagnostics.DiagnosticSource.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Helpers.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Mvc.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Optimization.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Razor.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.WebPages.Deployment.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.WebPages.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.WebPages.Razor.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\WebGrease.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\EntityFramework.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\EntityFramework.SqlServer.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Helpers.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Mvc.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Optimization.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.Razor.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.WebPages.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.WebPages.Deployment.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Web.WebPages.Razor.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Newtonsoft.Json.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Antlr3.Runtime.pdb
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\System.Diagnostics.DiagnosticSource.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.DependencyCollector.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.WindowsServer.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.AI.Web.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\VSCODE\EmployeeWebApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb

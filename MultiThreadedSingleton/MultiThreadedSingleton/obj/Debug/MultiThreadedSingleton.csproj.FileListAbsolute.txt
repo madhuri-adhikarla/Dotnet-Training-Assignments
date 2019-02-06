@@ -1,0 +1,7 @@
+D:\VSCODE\MultiThreadedSingleton\MultiThreadedSingleton\bin\Debug\MultiThreadedSingleton.exe.config
+D:\VSCODE\MultiThreadedSingleton\MultiThreadedSingleton\bin\Debug\MultiThreadedSingleton.exe
+D:\VSCODE\MultiThreadedSingleton\MultiThreadedSingleton\bin\Debug\MultiThreadedSingleton.pdb
+D:\VSCODE\MultiThreadedSingleton\MultiThreadedSingleton\obj\Debug\MultiThreadedSingleton.csprojAssemblyReference.cache
+D:\VSCODE\MultiThreadedSingleton\MultiThreadedSingleton\obj\Debug\MultiThreadedSingleton.csproj.CoreCompileInputs.cache
+D:\VSCODE\MultiThreadedSingleton\MultiThreadedSingleton\obj\Debug\MultiThreadedSingleton.exe
+D:\VSCODE\MultiThreadedSingleton\MultiThreadedSingleton\obj\Debug\MultiThreadedSingleton.pdb

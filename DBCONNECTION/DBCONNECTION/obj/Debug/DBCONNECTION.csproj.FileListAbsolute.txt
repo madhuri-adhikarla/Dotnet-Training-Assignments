@@ -1,0 +1,10 @@
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DBCONNECTION\bin\Debug\DBCONNECTION.exe.config
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DBCONNECTION\bin\Debug\DBCONNECTION.exe
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DBCONNECTION\bin\Debug\DBCONNECTION.pdb
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DBCONNECTION\obj\Debug\DBCONNECTION.Form1.resources
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DBCONNECTION\obj\Debug\DBCONNECTION.Properties.Resources.resources
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DBCONNECTION\obj\Debug\DBCONNECTION.csproj.GenerateResource.Cache
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DBCONNECTION\obj\Debug\DBCONNECTION.exe
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DBCONNECTION\obj\Debug\DBCONNECTION.pdb
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\DBCONNECTION\DBCONNECTION\obj\Debug\DBCONNECTION.csprojAssemblyReference.cache
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\DBCONNECTION\DBCONNECTION\obj\Debug\DBCONNECTION.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\DBCONNECTION\TestTimer\obj\Debug\TestTimer.MyTimer.resources
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\DBCONNECTION\TestTimer\obj\Debug\TestTimer.Properties.Resources.resources
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\DBCONNECTION\TestTimer\obj\Debug\TestTimer.csproj.GenerateResource.Cache
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\DBCONNECTION\TestTimer\bin\Debug\TestTimer.exe.config
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\DBCONNECTION\TestTimer\bin\Debug\TestTimer.exe
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\DBCONNECTION\TestTimer\bin\Debug\TestTimer.pdb
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\DBCONNECTION\TestTimer\obj\Debug\TestTimer.exe
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\DBCONNECTION\TestTimer\obj\Debug\TestTimer.pdb

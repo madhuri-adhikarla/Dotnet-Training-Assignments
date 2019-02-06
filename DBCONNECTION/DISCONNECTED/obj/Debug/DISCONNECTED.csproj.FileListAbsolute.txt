@@ -1,0 +1,9 @@
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DISCONNECTED\bin\Debug\DISCONNECTED.exe.config
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DISCONNECTED\bin\Debug\DISCONNECTED.exe
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DISCONNECTED\bin\Debug\DISCONNECTED.pdb
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DISCONNECTED\obj\Debug\DISCONNECTED.disconnectedArchitecture.resources
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DISCONNECTED\obj\Debug\DISCONNECTED.Properties.Resources.resources
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DISCONNECTED\obj\Debug\DISCONNECTED.csproj.GenerateResource.Cache
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DISCONNECTED\obj\Debug\DISCONNECTED.exe
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DISCONNECTED\obj\Debug\DISCONNECTED.pdb
+c:\users\madhuri.a\documents\visual studio 2017\Projects\DBCONNECTION\DISCONNECTED\obj\Debug\DISCONNECTED.csprojResolveAssemblyReference.cache

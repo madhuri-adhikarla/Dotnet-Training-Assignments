@@ -1,0 +1,62 @@
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\ApplicationInsights.config
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\EmployeeDataAccess.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\EmployeeModel.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\IBLL.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.Optimization.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.Mvc.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\Microsoft.Web.Infrastructure.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.WebPages.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.WebPages.Razor.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.Razor.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.WebPages.Deployment.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\EmployeeDataAccess.pdb
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\EmployeeDataAccess.dll.config
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\EmployeeModel.pdb
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\IBLL.pdb
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.Optimization.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.Mvc.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.WebPages.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.WebPages.Razor.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.Razor.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.WebPages.Deployment.xml
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CopyComplete
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\ApplicationInsights.config
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\EmployeeDataAccess.dll
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\EmployeeModel.dll
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\IBLL.dll
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.Optimization.dll
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.Mvc.dll
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\Microsoft.Web.Infrastructure.dll
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.WebPages.dll
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.WebPages.Razor.dll
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.Razor.dll
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.WebPages.Deployment.dll
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\EmployeeDataAccess.pdb
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\EmployeeDataAccess.dll.config
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\EmployeeModel.pdb
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\IBLL.pdb
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.Optimization.xml
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.Mvc.xml
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.WebPages.xml
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.WebPages.Razor.xml
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.Razor.xml
+D:\VSCODE\EmployeeWebApi\BusinessLayer\bin\Debug\netstandard2.0\System.Web.WebPages.Deployment.xml
+D:\VSCODE\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+D:\VSCODE\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\VSCODE\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\VSCODE\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+D:\VSCODE\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CopyComplete
+D:\VSCODE\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+D:\VSCODE\EmployeeWebApi\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb

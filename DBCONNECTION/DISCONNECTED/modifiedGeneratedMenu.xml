@@ -1,0 +1,402 @@
+<file>
+	<Americas>
+		<industries>
+			<industry id="e07dfe46-ca9a-45b3-b168-3d462435705b" url="/en/sitecore/content/Celanese/home/Industries/adhesives.aspx" name="Adhesives">
+				<application id="9131f443-4573-4673-a717-08f86001d77e" url="/en/sitecore/content/Celanese/home/Industries/adhesives/Additives.aspx" name="Additives"></application>
+				<application id="28163f61-1535-4e03-be0a-7fbb4559df48" url="/en/sitecore/content/Celanese/home/Industries/adhesives/Building-Materials.aspx" name="Building Materials"></application>
+				<application id="41959e56-37ff-4e41-8c42-0aeb412b1751" url="/en/sitecore/content/Celanese/home/Industries/adhesives/Carpet.aspx" name="Carpet"></application>
+				<application id="0c9a5f51-8773-4d40-b953-61d0e0b83cef" url="/en/sitecore/content/Celanese/home/Industries/adhesives/Formaldehyde-based-intermediates.aspx" name="Formaldehyde-based Resins"></application>
+				<application id="2d9a0369-acaa-4695-aea8-b436b8d532b1" url="/en/sitecore/content/Celanese/home/Industries/adhesives/Hot-Melt-Adhesives.aspx" name="Hot Melt Adhesives"></application>
+				<application id="c3ee15b4-390a-4787-b272-e7721c1bd7c1" url="/en/sitecore/content/Celanese/home/Industries/adhesives/PVB-and-PVC-based-Resins.aspx" name="PVB and PVC-based Resins"></application>
+				<application id="63baa0b6-58b4-4200-a778-58c58826f284" url="/en/sitecore/content/Celanese/home/Industries/adhesives/Solvent.aspx" name="Solvent"></application>
+				<application id="3e0f281f-0f0d-4ed3-99ec-862799c780be" url="/en/sitecore/content/Celanese/home/Industries/adhesives/Vinyl-based-Emulsion-Production.aspx" name="Vinyl Foundations"></application>
+				<application id="5876a0c0-e7a1-4640-937d-43f870c539b5" url="/en/sitecore/content/Celanese/home/Industries/adhesives/Water-based-Adhesives.aspx" name="Water-based Adhesives"></application>
+			</industry>
+			<industry id="eeb2f27e-82aa-4d19-b616-3e9fd6868ef1" url="/en/sitecore/content/Celanese/home/Industries/aerospace-and-defense.aspx" name="Aerospace and Defense">
+				<application id="80d5928b-530f-4d5d-a56d-21ac7b175aaf" url="/en/sitecore/content/Celanese/home/Industries/aerospace-and-defense/Commercial-Aircraft-And-General-Aviation.aspx" name="Commercial Aircraft and General Aviation"></application>
+				<application id="7b86b3b2-cc47-4f85-a34f-2838f251b806" url="/en/sitecore/content/Celanese/home/Industries/aerospace-and-defense/Glass-Fiber.aspx" name="Glass Fiber"></application>
+				<application id="375b946c-9fbe-4824-bea5-32a6f1d76bb8" url="/en/sitecore/content/Celanese/home/Industries/aerospace-and-defense/Ground-Defense.aspx" name="Ground Defense"></application>
+				<application id="dc2dd30f-f9b7-4f72-83a4-7a769e60279d" url="/en/sitecore/content/Celanese/home/Industries/aerospace-and-defense/Military-Aircraft.aspx" name="Military Aircraft"></application>
+				<application id="a61254db-e90e-4fdc-8a08-9cc8ae95e911" url="/en/sitecore/content/Celanese/home/Industries/aerospace-and-defense/Missiles-and-Space.aspx" name="Missiles and Space"></application>
+				<application id="d4cae6ad-3dc8-43fa-b5e4-41900a35aa81" url="/en/sitecore/content/Celanese/home/Industries/aerospace-and-defense/Satellites-Electronics-And-Communications.aspx" name="Satellites Electronics And Communications"></application>
+				<application id="89492a87-73f3-4724-a64b-3ae955db9d95" url="/en/sitecore/content/Celanese/home/Industries/aerospace-and-defense/Ship-Building.aspx" name="Ship Building"></application>
+			</industry>
+			<industry id="27660b16-56f7-4623-b8ab-0116dd27273a" url="/en/sitecore/content/Celanese/home/Industries/agriculture.aspx" name="Agriculture">
+				<application id="1e68edb2-ef4f-4a6f-8157-c0c936646e6f" url="/en/sitecore/content/Celanese/home/Industries/agriculture/Additives.aspx" name="Additives"></application>
+				<application id="e6794113-978c-4549-bddd-14ec499db306" url="/en/sitecore/content/Celanese/home/Industries/agriculture/Herbicide.aspx" name="Herbicide"></application>
+				<application id="2917fddd-cab7-4dde-9fdd-3317a14c4611" url="/en/sitecore/content/Celanese/home/Industries/agriculture/Supplements-and-Vitamins.aspx" name="Supplements and Vitamins"></application>
+			</industry>
+			<industry id="fe1f1df9-04cf-41f0-85d0-327d257f6ab1" url="/en/sitecore/content/Celanese/home/Industries/appliance.aspx" name="Appliance">
+				<application id="a737dcf7-1d19-4255-96be-076a3144cda8" url="/en/sitecore/content/Celanese/home/Industries/appliance/Large-Appliance.aspx" name="Large Appliance"></application>
+				<application id="8003eb09-2d61-44d2-9d8a-3e7037568833" url="/en/sitecore/content/Celanese/home/Industries/appliance/Small-Appliance.aspx" name="Small Appliance"></application>
+			</industry>
+			<industry id="a1852b2b-8d33-4079-8710-de9713c327a5" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation.aspx" name="Automotive and Transportation">
+				<application id="c9e45be2-d9a6-4629-8b21-a5bb0e18b7ef" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Additives.aspx" name="Additives"></application>
+				<application id="34c36a2d-f62d-41c8-9461-ee32c68fbb52" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Automotive-Electrical-And-Electronic.aspx" name="Automotive Electrical and Electronic"></application>
+				<application id="5d243d8e-407f-489c-964a-5a98b8ad096f" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Automotive-Exterior.aspx" name="Automotive Exterior"></application>
+				<application id="7d630c92-9ef4-4868-835d-1f1ad9ce4f8c" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Automotive-Interior.aspx" name="Automotive Interior"></application>
+				<application id="9e23d80f-dc5a-4b50-834f-f347210ee83f" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Batteries.aspx" name="Batteries"></application>
+				<application id="9ae3fddf-21e8-4415-85b4-bcf728b69266" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Bus-Truck-and-Rail.aspx" name="Bus, Truck and Rail"></application>
+				<application id="bd1660a5-239b-467a-ad55-85e0b1b68ec0" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Carpet.aspx" name="Carpet"></application>
+				<application id="f4dee614-5787-420a-b8b0-88ba95714867" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Chassis-Underbody.aspx" name="Chassis Underbody"></application>
+				<application id="130068c5-7b2c-4740-8c4a-e22da6b2564f" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Fasteners-And-Supports.aspx" name="Fasteners and Supports"></application>
+				<application id="d8f8b3f2-d1a1-4518-873d-b8c650e75e97" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Films.aspx" name="Films"></application>
+				<application id="62b8044e-115f-400f-b734-16b91f16c77d" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Fuel-Systems.aspx" name="Fuel Systems"></application>
+				<application id="9b936173-bfb5-4f55-9b26-81eba824334d" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Marine.aspx" name="Marine"></application>
+				<application id="86eb4dec-54c8-45f9-9016-ce835bbd7a76" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Motorcycle.aspx" name="Motorcycle"></application>
+				<application id="9ef6c5a4-4485-43b2-a737-ae68f9e70f77" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Nonwovens.aspx" name="Nonwovens"></application>
+				<application id="9975cc8a-6b8a-48cc-aa43-eb9bff7e1f21" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Off-Road.aspx" name="Off Road"></application>
+				<application id="d839c3fd-143f-446f-b309-46a93b7f0e0a" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Paper-SaturationSpecialty-Papers.aspx" name="Paper Saturationspecialty Papers"></application>
+				<application id="49d1503d-ed4e-424d-8b4b-c6909466a02f" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Powertrain.aspx" name="Powertrain"></application>
+				<application id="868bdf82-2695-4bb3-8ccf-94269284f7f0" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Solvent.aspx" name="Solvent"></application>
+				<application id="7fad7961-52fe-4d77-95e5-4ba271264385" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Vinyl-based-Emulsion-Production.aspx" name="Vinyl Foundations"></application>
+				<application id="7fd189bf-6687-49d3-bb57-49d6fab09ce5" url="/en/sitecore/content/Celanese/home/Industries/automotiveandtransportation/Wire-and-Cable-Coating.aspx" name="Wire and Cable Coating"></application>
+			</industry>
+			<industry id="4f915462-9a95-4752-a4da-7ebe9c451c46" url="/en/sitecore/content/Celanese/home/Industries/building-and-construction.aspx" name="Building and Construction">
+				<application id="272215eb-75e4-470f-b8b7-c5d987a19973" url="/en/sitecore/content/Celanese/home/Industries/building-and-construction/ArchitecturalDecorative-Coatings.aspx" name="Architecturaldecorative Coatings"></application>
+				<application id="ec2b10e3-78d4-4ff9-bd80-efd31f359133" url="/en/sitecore/content/Celanese/home/Industries/building-and-construction/Building-Materials.aspx" name="Building Materials"></application>
+				<application id="ed974416-7456-4897-9573-f6e64bee590c" url="/en/sitecore/content/Celanese/home/Industries/building-and-construction/Carpet.aspx" name="Carpet"></application>
+				<application id="cab77eef-3a20-48af-b7d0-7fff160c1731" url="/en/sitecore/content/Celanese/home/Industries/building-and-construction/Films.aspx" name="Films"></application>
+				<application id="3035d44d-6602-4330-bd88-fde586fa03b4" url="/en/sitecore/content/Celanese/home/Industries/building-and-construction/Formaldehyde-based-Resins.aspx" name="Formaldehyde-based Resins"></application>
+				<application id="934487a7-0282-4f4c-94cd-c35d5daa9b31" url="/en/sitecore/content/Celanese/home/Industries/building-and-construction/Glass-Fiber.aspx" name="Glass Fiber"></application>
+				<application id="6bf7587b-0358-43a3-9d94-33125934d52c" url="/en/sitecore/content/Celanese/home/Industries/building-and-construction/Insulation.aspx" name="Insulation"></application>
+				<application id="1d2d4327-1280-4b3f-ba36-40fffe9f95ac" url="/en/sitecore/content/Celanese/home/Industries/building-and-construction/Nonwovens.aspx" name="Nonwovens"></application>
+				<application id="63351687-96fb-4a3b-9c9e-7f838a67d891" url="/en/sitecore/content/Celanese/home/Industries/building-and-construction/Paper-SaturationSpecialty-Papers.aspx" name="Paper Saturationspecialty Papers"></application>
+				<application id="54ce4f47-32db-4622-bfca-b6e611063991" url="/en/sitecore/content/Celanese/home/Industries/building-and-construction/PVB-and-PVC-based-Resins.aspx" name="PVB and PVC-based Resins"></application>
+				<application id="6753e335-f7e2-4237-85a5-f942139c9b51" url="/en/sitecore/content/Celanese/home/Industries/building-and-construction/Water-based-Adhesives.aspx" name="Water-based Adhesives"></application>
+			</industry>
+			<industry id="a1875fbc-21c3-4757-ad9b-3dcf1c32d671" url="/en/sitecore/content/Celanese/home/Industries/chemicals.aspx" name="Chemicals">
+				<application id="25c73d0e-9478-413e-87d9-6b50b42ff791" url="/en/sitecore/content/Celanese/home/Industries/chemicals/Additives.aspx" name="Additives"></application>
+				<application id="7a7ea4e8-b378-4ee1-a4f0-3206c6942ff6" url="/en/sitecore/content/Celanese/home/Industries/chemicals/ArchitecturalDecorative-Coatings.aspx" name="Architecturaldecorative Coatings"></application>
+				<application id="b8200312-97e9-482d-94f7-12b0787a4ea9" url="/en/sitecore/content/Celanese/home/Industries/chemicals/Films.aspx" name="Films"></application>
+				<application id="afa91245-8160-42e4-b61d-48444f456af7" url="/en/sitecore/content/Celanese/home/Industries/chemicals/Formaldehyde-based-Resins.aspx" name="Formaldehyde-based Resins"></application>
+				<application id="af731bfd-2699-43fd-9fbf-3fd5c323b04c" url="/en/sitecore/content/Celanese/home/Industries/chemicals/Inks.aspx" name="Inks"></application>
+				<application id="46343ad6-230c-4551-b7b0-bf0dd753211e" url="/en/sitecore/content/Celanese/home/Industries/chemicals/Lube-and-Rubber-Additives.aspx" name="Lube and Rubber Additives"></application>
+				<application id="a17df308-15cb-45ad-a44d-b5aaf1aa7239" url="/en/sitecore/content/Celanese/home/Industries/chemicals/Oil-and-Gas-Extraction.aspx" name="Oil and Gas Extraction"></application>
+				<application id="4029fc11-0086-45b8-84b0-3c1b9f9a0f83" url="/en/sitecore/content/Celanese/home/Industries/chemicals/Solvent.aspx" name="Solvent"></application>
+				<application id="4a9c9f15-7c0a-4d01-bdef-5d7c22348488" url="/en/sitecore/content/Celanese/home/Industries/chemicals/Vinyl-based-Emulsion-Production.aspx" name="Vinyl Foundations"></application>
+			</industry>
+			<industry id="49c15b72-9fd7-4e38-91b2-b824dd3bc2cb" url="/en/sitecore/content/Celanese/home/Industries/coatings.aspx" name="Coatings">
+				<application id="398a7b12-e79d-4a83-a1a3-77ba1f9da685" url="/en/sitecore/content/Celanese/home/Industries/coatings/Additives.aspx" name="Additives"></application>
+				<application id="af307f01-b4ec-4de5-9c5b-007888e97119" url="/en/sitecore/content/Celanese/home/Industries/coatings/ArchitecturalDecorative-Coatings.aspx" name="Architecturaldecorative Coatings"></application>
+				<application id="460afb9d-6dd0-4c56-8de0-076bf606154e" url="/en/sitecore/content/Celanese/home/Industries/coatings/Building-Materials.aspx" name="Building Materials"></application>
+				<application id="641f3299-32f3-47ce-a754-0aa993b132e4" url="/en/sitecore/content/Celanese/home/Industries/coatings/Carpet.aspx" name="Carpet"></application>
+				<application id="070d6af5-16ab-48cb-bd59-c2953eafbc0b" url="/en/sitecore/content/Celanese/home/Industries/coatings/Formaldehyde-based-Resins.aspx" name="Formaldehyde-based Resins"></application>
+				<application id="0a2e1031-9d95-485a-8eed-596a554e9df2" url="/en/sitecore/content/Celanese/home/Industries/coatings/Industrial-Coatings.aspx" name="Industrial Coatings"></application>
+				<application id="72637244-6579-4651-b1e2-887dbd02f898" url="/en/sitecore/content/Celanese/home/Industries/coatings/Lamination.aspx" name="Lamination"></application>
+				<application id="6530c226-28ff-46f0-9a4e-64fe7765c7d4" url="/en/sitecore/content/Celanese/home/Industries/coatings/PaperPaperboard-Coating.aspx" name="Paperpaperboard Coating"></application>
+				<application id="9e109308-8260-4894-bda3-d3e4f01830b0" url="/en/sitecore/content/Celanese/home/Industries/coatings/Solvent.aspx" name="Solvent"></application>
+				<application id="7c3c11b0-a707-4213-b217-083ef47adf90" url="/en/sitecore/content/Celanese/home/Industries/coatings/Vinyl-based-Emulsion-Production.aspx" name="Vinyl Foundations"></application>
+			</industry>
+			<industry id="7ac225f8-32b1-4f95-9f9e-c07fa9055510" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods.aspx" name="Consumer Goods">
+				<application id="b0c01d06-cbb9-4610-be9d-5c4020763b3a" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Acetate-Granules.aspx" name="Acetate Granules"></application>
+				<application id="44495f23-8f54-4ff5-a6c0-5148da3ad8a8" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Carpet.aspx" name="Carpet"></application>
+				<application id="4358cab9-4fe3-439d-b483-7e65d5c7c0e0" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Consumer-Electronics.aspx" name="Consumer Electronics"></application>
+				<application id="0d8f245e-1089-4ce4-afae-9f09154ea83e" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Cookware.aspx" name="Cookware"></application>
+				<application id="7fbeb8f9-1088-46a9-9b84-11a812ebab47" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Foam.aspx" name="Foam"></application>
+				<application id="cdeeeff7-e0f2-4a7a-9e68-af54cb1e4cc9" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Furniture.aspx" name="Furniture"></application>
+				<application id="d8be36fe-a94a-41b9-ad5e-84d9d9875de7" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Lamination.aspx" name="Lamination"></application>
+				<application id="5eb343c0-c5ee-4378-9670-8f92d3024bfe" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Lawn-and-Garden.aspx" name="Lawn and Garden"></application>
+				<application id="c7b6c3b8-b84f-421f-a6b9-b645cba5dbfa" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Nonwovens.aspx" name="Nonwovens"></application>
+				<application id="6266e9ea-e51b-4039-8705-a1d1976b191f" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Optical.aspx" name="Optical"></application>
+				<application id="564db00d-a7f9-43e5-8f75-1be349fa0444" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Paper-SaturationSpecialty-Papers.aspx" name="Paper Saturationspecialty Papers"></application>
+				<application id="c3327f49-aea9-4981-9cfd-4bcd71fc88d3" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/PaperPaperboard-Coating.aspx" name="Paperpaperboard Coating"></application>
+				<application id="89fe13c1-2b40-4d59-8413-d9d9e1e8c0d9" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Preservatives-for-Non-Food.aspx" name="Preservatives for Non-food"></application>
+				<application id="172b2abf-0597-41e3-911e-27f27d8f16d4" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Sporting-Goods-and-Toys.aspx" name="Sporting Goods and Toys"></application>
+				<application id="b69a2888-97e9-4b80-a3a9-13c41a6fc139" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Sweeteners-for-Non-Food.aspx" name="Sweeteners for Non-food"></application>
+				<application id="3269beeb-958e-4da2-98b5-56cdebc2f175" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Tapes-and-Labels.aspx" name="Tapes and Labels"></application>
+				<application id="18171c9b-0e23-47d0-89c5-4b7d07a37657" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Water-based-Adhesives.aspx" name="Water-based Adhesives"></application>
+				<application id="dae61849-7642-4c29-8382-d312edd858f6" url="/en/sitecore/content/Celanese/home/Industries/consumer-goods/Wood-Processing.aspx" name="Wood Processing"></application>
+			</industry>
+			<industry id="5ca20bd3-6079-40a3-bfbb-972a7ea0d60a" url="/en/sitecore/content/Celanese/home/Industries/electrical-and-electronics.aspx" name="Electrical and Electronics">
+				<application id="61c3d2e9-9d30-4d8f-bf82-ef4aa8663d07" url="/en/sitecore/content/Celanese/home/Industries/electrical-and-electronics/Components.aspx" name="Components"></application>
+				<application id="3ed7ca96-02d6-474c-b9f9-95e6baf85b30" url="/en/sitecore/content/Celanese/home/Industries/electrical-and-electronics/Glass-Fiber.aspx" name="Glass Fiber"></application>
+				<application id="b686df8d-b42c-4f0f-8cbf-6bb91e40b7e7" url="/en/sitecore/content/Celanese/home/Industries/electrical-and-electronics/Lighting.aspx" name="Lighting"></application>
+				<application id="feada3ba-ed8e-4a56-b67f-ef5a4ddac123" url="/en/sitecore/content/Celanese/home/Industries/electrical-and-electronics/Office-Equipment.aspx" name="Office Equipment"></application>
+				<application id="bfcd8a20-e3ee-4ae9-9559-dccdaf828c25" url="/en/sitecore/content/Celanese/home/Industries/electrical-and-electronics/Sensors-and-Switches.aspx" name="Sensors and Switches"></application>
+				<application id="cb6bfdd1-355a-44db-b0a0-0ec2c050393b" url="/en/sitecore/content/Celanese/home/Industries/electrical-and-electronics/Wire-and-Cable-Coating.aspx" name="Wire and Cable Coating"></application>
+			</industry>
+			<industry id="8b261dd8-05ea-49da-a72e-69e2c898d56d" url="/en/sitecore/content/Celanese/home/Industries/energy.aspx" name="Energy">
+				<application id="ac867877-1a80-44f4-a514-3d5a04cf7844" url="/en/sitecore/content/Celanese/home/Industries/energy/Batteries.aspx" name="Batteries"></application>
+				<application id="e35877dc-52dd-4585-bc99-5d4282802db1" url="/en/sitecore/content/Celanese/home/Industries/energy/Fuel.aspx" name="Fuel"></application>
+				<application id="733a28c7-532a-4160-9e17-59bd5599f531" url="/en/sitecore/content/Celanese/home/Industries/energy/Solar.aspx" name="Solar"></application>
+				<application id="db66d7ac-8fff-4fb4-bc38-6cab87366fd5" url="/en/sitecore/content/Celanese/home/Industries/energy/Water.aspx" name="Water"></application>
+				<application id="1a6d2472-5f98-4e10-87d6-7a06d93cbbee" url="/en/sitecore/content/Celanese/home/Industries/energy/Wind.aspx" name="Wind"></application>
+			</industry>
+			<industry id="fd50fbd0-2755-4538-9a58-d4153f8474ee" url="/en/sitecore/content/Celanese/home/Industries/fluid-handling.aspx" name="Fluid Handling">
+				<application id="c240e6b3-cd3b-46d0-9594-c36dcd8f1a88" url="/en/sitecore/content/Celanese/home/Industries/fluid-handling/Irrigation.aspx" name="Irrigation"></application>
+				<application id="7dc29402-cc35-4260-8af5-49e34a3b57c2" url="/en/sitecore/content/Celanese/home/Industries/fluid-handling/Kitchen-and-Bath.aspx" name="Kitchen and Bath"></application>
+				<application id="f62a24dd-8bfe-4073-9bd8-740a18e93304" url="/en/sitecore/content/Celanese/home/Industries/fluid-handling/Liquid-Filtration.aspx" name="Liquid Filtration"></application>
+			</industry>
+			<industry id="84bd4e77-3fd3-489f-ba45-e997abbb4aba" url="/en/sitecore/content/Celanese/home/Industries/food-and-beverage.aspx" name="Food and Beverage">
+				<application id="a42be57b-f956-4bd3-9970-b2ac90aa62a4" url="/en/sitecore/content/Celanese/home/Industries/food-and-beverage/Flexible-Packaging-and-Film.aspx" name="Flexible Packaging and Film"></application>
+				<application id="f24b915d-ae83-4ef6-9a05-dd5dfb08f293" url="/en/sitecore/content/Celanese/home/Industries/food-and-beverage/Food-Additive.aspx" name="Food Additive"></application>
+				<application id="1e4afe6e-5ea2-461e-affb-2a3f7345f8c8" url="/en/sitecore/content/Celanese/home/Industries/food-and-beverage/Paper-SaturationSpecialty-Papers.aspx" name="Paper Saturation/Specialty Papers"></application>
+				<application id="165d64ab-1e0f-4763-864f-803f7b66bd59" url="/en/sitecore/content/Celanese/home/Industries/food-and-beverage/Preservatives.aspx" name="Preservatives"></application>
+				<application id="2386ba14-892b-4051-a63f-d07bbdc7c7e1" url="/en/sitecore/content/Celanese/home/Industries/food-and-beverage/Sweeteners.aspx" name="Sweeteners"></application>
+				<application id="2247f123-b079-4ed4-8ada-4e051dd4804d" url="/en/sitecore/content/Celanese/home/Industries/food-and-beverage/Tubing.aspx" name="Tubing"></application>
+				<application id="0f1282f7-07ca-46c7-a32f-aee69554e5c3" url="/en/sitecore/content/Celanese/home/Industries/food-and-beverage/Water-based-Adhesives.aspx" name="Water-based Adhesives"></application>
+			</industry>
+			<industry id="d6568c60-74f0-4a92-b79f-29d9dda044db" url="/en/sitecore/content/Celanese/home/Industries/industrial.aspx" name="Industrial">
+				<application id="7ee680a8-9340-4fba-87f2-e6175cb50d0b" url="/en/sitecore/content/Celanese/home/Industries/industrial/Additives.aspx" name="Additives"></application>
+				<application id="032758ef-229c-460e-91f0-2b06bda341d8" url="/en/sitecore/content/Celanese/home/Industries/industrial/Building-Materials.aspx" name="Building Materials"></application>
+				<application id="01ea0f8a-30f8-4c38-ac2d-9a754e080131" url="/en/sitecore/content/Celanese/home/Industries/industrial/Compounds-and-Composites.aspx" name="Composites"></application>
+				<application id="76fc7355-0eac-48b3-b370-951392ff7aec" url="/en/sitecore/content/Celanese/home/Industries/industrial/Flexible-Packaging-and-Film.aspx" name="Flexible Packaging and Film"></application>
+				<application id="d0ae8a2d-a62f-4cb4-8a98-18fe6ea26012" url="/en/sitecore/content/Celanese/home/Industries/industrial/Foam.aspx" name="Foam"></application>
+				<application id="4c0e6269-c4a8-4999-9f19-b77660410725" url="/en/sitecore/content/Celanese/home/Industries/industrial/Gears.aspx" name="Gears"></application>
+				<application id="1896fc0d-95c2-4bae-b789-10af2284a7b3" url="/en/sitecore/content/Celanese/home/Industries/industrial/Hot-Melt-Adhesives.aspx" name="Hot Melt Adhesives"></application>
+				<application id="6a35ee52-0f9c-4915-987f-48af27b418d9" url="/en/sitecore/content/Celanese/home/Industries/industrial/HVAC-Fire-Control-Safety.aspx" name="HVAC, Fire, Control Safety"></application>
+				<application id="fc208fbb-cbc2-45e7-933d-e82676929119" url="/en/sitecore/content/Celanese/home/Industries/industrial/Insulation.aspx" name="Insulation"></application>
+				<application id="d9ecba3c-d510-4698-92a0-765831f76f39" url="/en/sitecore/content/Celanese/home/Industries/industrial/Material-Handling.aspx" name="Material Handling"></application>
+				<application id="19acc57f-d220-41c2-942a-6bacb045c659" url="/en/sitecore/content/Celanese/home/Industries/industrial/Nonwovens.aspx" name="Nonwovens"></application>
+				<application id="78a70ebc-af42-482f-86e2-51416f204d33" url="/en/sitecore/content/Celanese/home/Industries/industrial/Solvent.aspx" name="Solvent"></application>
+				<application id="1ade08ea-1575-4c6f-9d42-83fe23a51751" url="/en/sitecore/content/Celanese/home/Industries/industrial/Tools-and-Equipment.aspx" name="Tools and Equipment"></application>
+				<application id="4214ff28-0a8d-48c2-825a-eca73e4639e8" url="/en/sitecore/content/Celanese/home/Industries/industrial/Water-based-Adhesives.aspx" name="Water-based Adhesives"></application>
+				<application id="83d7415c-2a6c-49ea-82d5-a03b2c35edd1" url="/en/sitecore/content/Celanese/home/Industries/industrial/Wire-and-Cable-Coating.aspx" name="Wire and Cable Coating"></application>
+			</industry>
+			<industry id="82a7abcb-ad9a-49df-a0b3-8a690da67be7" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma.aspx" name="Medical and Pharma">
+				<application id="25a20484-185a-4a0e-b592-f720bc65dab9" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Drug-Delivery.aspx" name="Drug Delivery"></application>
+				<application id="e637efea-be7b-4586-b0ea-55cf60eb91ff" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Inks.aspx" name="Inks"></application>
+				<application id="02fa0d95-1eb3-43e3-a089-dd346b6a8099" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Medical-Devices.aspx" name="Medical Devices"></application>
+				<application id="8626a3ed-ebc2-4dad-baf4-60e56bafd53b" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Medical-Filtration.aspx" name="Medical Filtration"></application>
+				<application id="ed10a4b8-b7ed-429f-9b81-907fa58d2363" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Medical-Packaging.aspx" name="Medical Packaging"></application>
+				<application id="7e3d3c15-25b9-44bf-a4e3-b4e6075f0dd0" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Medical-Supplies.aspx" name="Medical Supplies"></application>
+				<application id="ebdc90eb-6082-4ecf-b0f7-3dd4f5a12082" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Nonwovens.aspx" name="Nonwovens"></application>
+				<application id="0628aa06-209f-4210-b96e-1484f47dc24c" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Optical.aspx" name="Optical"></application>
+				<application id="24e4149b-b107-48e6-85cc-b64e6cade754" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Orthopedic-Implants.aspx" name="Orthopedic Implants"></application>
+				<application id="71a19d24-63b3-4920-ab0b-f3cdf07109cc" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Paper-SaturationSpecialty-Papers.aspx" name="Paper Saturation/Specialty Papers"></application>
+				<application id="1b6630be-1d74-4232-b950-ba7c49f473a6" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Preservatives-for-Non-Food.aspx" name="Preservatives for Non-food"></application>
+				<application id="0aff7e29-297e-4128-bfac-f3a07048e7a5" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Protective-Clothing-and-Cloth.aspx" name="Protective Clothing and Cloth"></application>
+				<application id="597839fe-113d-4ba3-be33-801b28c577ef" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Solvent.aspx" name="Solvent"></application>
+				<application id="eb6a8882-7f24-46bf-af0b-3c5544f5fded" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Supplements-and-Vitamins.aspx" name="Supplements and Vitamins"></application>
+				<application id="327f1aac-b2dc-4689-b33a-a80bd698aefb" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Sweeteners-for-Non-Food.aspx" name="Sweeteners For Non-food"></application>
+				<application id="d708a682-20a8-46c7-9f31-66eef1b9a7bc" url="/en/sitecore/content/Celanese/home/Industries/medical-and-pharma/Tubing.aspx" name="Tubing"></application>
+			</industry>
+			<industry id="4700401a-133e-4129-9158-2e04f8ff104d" url="/en/sitecore/content/Celanese/home/Industries/oil-gas-and-mining.aspx" name="Oil, Gas and Mining">
+				<application id="ed5e9013-b8c5-4d9d-971c-28f8cdcc69a7" url="/en/sitecore/content/Celanese/home/Industries/oil-gas-and-mining/Additives.aspx" name="Additives"></application>
+				<application id="6d32d665-a508-4e3f-9cb0-48d4f2c69072" url="/en/sitecore/content/Celanese/home/Industries/oil-gas-and-mining/Downhole-Tubing.aspx" name="Downhole Tubing"></application>
+				<application id="eff98cce-0ca8-4df5-b3f5-31b2f2ce680b" url="/en/sitecore/content/Celanese/home/Industries/oil-gas-and-mining/Flotation-Agent.aspx" name="Flotation Agent"></application>
+				<application id="41e0ec76-abf9-49d8-af8a-0cf9168b8751" url="/en/sitecore/content/Celanese/home/Industries/oil-gas-and-mining/Oil-and-Gas-Extraction.aspx" name="Oil and Gas Extraction"></application>
+				<application id="e55adb76-1386-43c5-ae89-1f31e1096bcb" url="/en/sitecore/content/Celanese/home/Industries/oil-gas-and-mining/Pipe-and-Liner.aspx" name="Pipe and Liner"></application>
+			</industry>
+			<industry id="7c2b93d6-e09f-4762-a49b-42809de60417" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing.aspx" name="Packaging, Film and Printing">
+				<application id="40e6b61f-11cd-46ff-a0e1-862efb6355a6" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Additives.aspx" name="Additives"></application>
+				<application id="2d47c1e2-36b5-41d2-8d90-6eb27a743920" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Bottles-and-Components.aspx" name="Bottles and Components"></application>
+				<application id="a6fb4f20-0df4-458b-80b8-5844367c25c9" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Flexible-Packaging-and-Film.aspx" name="Flexible Packaging and Film"></application>
+				<application id="a0c02cbc-ddf5-4221-83db-0558f0f2d10d" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Foam.aspx" name="Foam"></application>
+				<application id="b69b47e9-aca2-400c-81ef-26c94fedb41d" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Hot-Melt-Adhesives.aspx" name="Hot Melt Adhesives"></application>
+				<application id="f0c74bb0-18cf-4bea-be1a-837cd7f2d462" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Inks.aspx" name="Inks"></application>
+				<application id="9f73a921-07e8-4f95-b9bd-eb10a0a8a7d9" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Lamination.aspx" name="Lamination"></application>
+				<application id="7b3d8ffc-3282-46c8-96ae-1954bb40c258" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Luxury-Packaging.aspx" name="Luxury Packaging"></application>
+				<application id="472bdec1-25f3-403b-bc69-c36bc9d769d7" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Medical-Packaging.aspx" name="Medical Packaging"></application>
+				<application id="aafedce7-4712-4549-80f5-2ab615e065f2" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Paper-SaturationSpecialty-Papers.aspx" name="Paper Saturation/Specialty Papers"></application>
+				<application id="217ed4ea-6ea8-4503-b6ca-26299b1a7fc7" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/PaperPaperboard-Coating.aspx" name="Paper/Paperboard Coating"></application>
+				<application id="e9f69324-45ee-452c-b1a8-389a349db422" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Preservatives-for-Non-Food.aspx" name="Preservatives for Non-food"></application>
+				<application id="e3b4ade7-db32-4442-a551-adb3e2a46c08" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Solvent.aspx" name="Solvent"></application>
+				<application id="502e8797-8355-4001-9f97-8534113ef1ff" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Vinyl-based-Emulsion-Production.aspx" name="Vinyl-based Emulsion Production"></application>
+				<application id="d6eae59c-459e-4e2b-97a1-c18081df6c7e" url="/en/sitecore/content/Celanese/home/Industries/packaging-film-and-printing/Water-based-Adhesives.aspx" name="Water-based Adhesives"></application>
+			</industry>
+			<industry id="557922d6-ad9c-4fef-b2bb-3605fb2092d6" url="/en/sitecore/content/Celanese/home/Industries/personal-care-and-cosmetics.aspx" name="Personal Care and Cosmetics">
+				<application id="233c253e-aadb-46a0-a93e-03972875756d" url="/en/sitecore/content/Celanese/home/Industries/personal-care-and-cosmetics/Additives.aspx" name="Additives"></application>
+				<application id="ff6ff1c5-a49d-479e-a47e-05efcbd92ad3" url="/en/sitecore/content/Celanese/home/Industries/personal-care-and-cosmetics/Bottles-and-Components.aspx" name="Bottles and Components"></application>
+				<application id="74c8ecd3-392f-48f5-95f7-0673339bc05b" url="/en/sitecore/content/Celanese/home/Industries/personal-care-and-cosmetics/Luxury-Packaging.aspx" name="Luxury Packaging"></application>
+				<application id="5e82d5f3-27ea-46e2-b711-6666e06a2377" url="/en/sitecore/content/Celanese/home/Industries/personal-care-and-cosmetics/Nonwovens.aspx" name="Nonwovens"></application>
+				<application id="4e209c83-cb4b-45a8-b8c6-e2a3385ae0c6" url="/en/sitecore/content/Celanese/home/Industries/personal-care-and-cosmetics/Preservatives-for-Non-Food.aspx" name="Preservatives For Non-food"></application>
+				<application id="f68b05a7-45fd-46bd-8848-6a8eeac0d1db" url="/en/sitecore/content/Celanese/home/Industries/personal-care-and-cosmetics/Solvent.aspx" name="Solvent"></application>
+				<application id="c5b30acc-237c-486c-8498-7550ee91884d" url="/en/sitecore/content/Celanese/home/Industries/personal-care-and-cosmetics/Supplements-and-Vitamins.aspx" name="Supplements and Vitamins"></application>
+				<application id="e4f7a3c1-8d52-4814-9529-c9c0cf57719e" url="/en/sitecore/content/Celanese/home/Industries/personal-care-and-cosmetics/Sweeteners-for-Non-Food.aspx" name="Sweeteners For Non-food"></application>
+			</industry>
+			<industry id="e84c3040-0f92-4286-b5f9-592069f2e75e" url="/en/sitecore/content/Celanese/home/Industries/textiles-fibers-and-filtration.aspx" name="Textiles, Fibers and Filtration">
+				<application id="034a3f80-94bb-47d6-9566-6c1de7a7eb4f" url="/en/sitecore/content/Celanese/home/Industries/textiles-fibers-and-filtration/Air-Filtration.aspx" name="Air Filtration"></application>
+				<application id="3d194751-ffca-4128-8708-c3a2213e53c3" url="/en/sitecore/content/Celanese/home/Industries/textiles-fibers-and-filtration/Apparel.aspx" name="Apparel"></application>
+				<application id="f39c78e3-728a-413e-9d89-5c42f9447183" url="/en/sitecore/content/Celanese/home/Industries/textiles-fibers-and-filtration/Carpet.aspx" name="Carpet"></application>
+				<application id="9bfb1137-a181-47d5-99c7-0151dfcaf1d0" url="/en/sitecore/content/Celanese/home/Industries/textiles-fibers-and-filtration/Cigarette-Filtration.aspx" name="Cigarette Filtration"></application>
+				<application id="9350865b-04b5-4f8c-a790-34cdaa9a2451" url="/en/sitecore/content/Celanese/home/Industries/textiles-fibers-and-filtration/Extruded-Fibers.aspx" name="Extruded Fibers"></application>
+				<application id="dc61c1f3-fe2f-4da0-bd3c-2aaa44ca7f1f" url="/en/sitecore/content/Celanese/home/Industries/textiles-fibers-and-filtration/Liquid-Filtration.aspx" name="Liquid Filtration"></application>
+				<application id="321c979d-f73c-4ae3-b032-af81a21cf459" url="/en/sitecore/content/Celanese/home/Industries/textiles-fibers-and-filtration/Nonwovens.aspx" name="Nonwovens"></application>
+				<application id="95730423-ce0b-403b-9f6c-041c4b20eb98" url="/en/sitecore/content/Celanese/home/Industries/textiles-fibers-and-filtration/Protective-Clothing-and-Cloth.aspx" name="Protective Clothing and Cloth"></application>
+			</industry>
+		</industries>
+		<products>
+			<bussinessunits>
+				<bussinessunit id="c50a2903-16ea-48e5-a81f-2d10b44035a2" url="/en/sitecore/content/Celanese/home/intermediate-chemistry.aspx" name="Intermediate Chemistry">
+					<product id="eb69fdbb-2ea5-41e8-9f46-f50c708ae611" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/3-Methoxybutanol.aspx" name="3 Methoxybutanol"></product>
+					<product id="fd389109-9d38-4758-8ae5-cc75310646b8" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Acetic-Acid.aspx" name="Acetic Acid"></product>
+					<product id="cab8cba6-57b5-404c-bb2e-ae1f69252c20" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Acetic-Anhydride.aspx" name="Acetic Anhydride"></product>
+					<product id="ee5ef6ad-3945-4468-a42b-a545a73911ad" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Butoxyl.aspx" name="Butoxyl"></product>
+					<product id="02440d9a-138c-4f41-b5de-2874d1afa6de" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Butyric-Anhydride.aspx" name="Butyric Anhydride"></product>
+					<product id="8ab6b9bc-b2ca-4e91-b274-52f19ec10fef" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Crotonaldehyde.aspx" name="Crotonaldehyde"></product>
+					<product id="553bcdcd-5733-4ea8-be7e-6fb1505079c2" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Dibutyl-Maleate-DBM.aspx" name="Dibutyl Maleate Dbm"></product>
+					<product id="0629e593-eca8-4773-9275-92a1ecd02f21" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Dimethylamine.aspx" name="Dimethylamine"></product>
+					<product id="9daf61c5-839e-47cf-95d3-3ed4e1ddba1c" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Dioctyl-Maleate-DOM.aspx" name="Dioctyl Maleate Dom"></product>
+					<product id="ef5419bd-af08-41ec-afe4-c9ffe8b72925" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Ethyl-Acetate.aspx" name="Ethyl Acetate"></product>
+					<product id="bb0803a4-7219-41a0-9ce6-3c173649226e" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Formaldehyde.aspx" name="Formaldehyde"></product>
+					<product id="43f34950-e54e-4631-b0aa-2d75517e3774" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Isobutyric-Anhydride.aspx" name="Isobutyric Anhydride"></product>
+					<product id="a0cf8348-9436-4e6d-8134-c027f2cda656" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Methyl-Acetate.aspx" name="Methyl Acetate 95%"></product>
+					<product id="9d52a7a9-9f1b-48bb-aef3-56cf7461bd37" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/MIBC.aspx" name="Mibc"></product>
+					<product id="160ff02e-b9fd-469a-bc06-4530263c4a97" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/MIBK.aspx" name="Mibk"></product>
+					<product id="12ad5d51-63e7-46c7-a69d-906c5a675266" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/N-Butyl-Acetate.aspx" name="N Butyl Acetate"></product>
+					<product id="1265e86a-68ba-4151-a5e1-7af19a4c6070" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Paraformaldehyde.aspx" name="Paraformaldehyde"></product>
+					<product id="0879f199-def3-45dd-b2e3-273bbfc7470b" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/WVC-3800.aspx" name="Wvc 3800"></product>
+					<product id="d4a3014f-6bec-4ae8-ae27-8dcbfdc82be6" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Polysolvan-O.aspx" name="Polysolvan O"></product>
+					<product id="52334baf-43fd-4048-a3d9-730243e59f49" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Propionic-Anhydride.aspx" name="Propionic Anhydride"></product>
+					<product id="4a770a25-b99d-414b-9970-7c6fae4b77e0" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/SAIB.aspx" name="Saib 80%"></product>
+					<product id="fed4acb6-3af7-4a78-adb7-0880b0e38537" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Trimethylamine.aspx" name="Trimethylamine"></product>
+					<product id="b22cfc59-1c99-4aed-808e-e6d3dd493d40" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Vinyl-Acetate.aspx" name="Vinyl Acetate"></product>
+				</bussinessunit>
+				<bussinessunit id="bbbd3df7-9696-49b9-a89b-581f5f379d83" url="/en/sitecore/content/Celanese/home/cellulose-derivatives.aspx" name="Cellulose Derivatives">
+					<product id="a7ff71d7-d61c-4352-9487-cfd592a58860" url="/en/sitecore/content/Celanese/home/cellulose-derivatives/products/Acetate-Flake.aspx" name="Acetate Flake"></product>
+					<product id="6df94fad-1432-4da0-a8af-053f6eab3ecb" url="/en/sitecore/content/Celanese/home/cellulose-derivatives/products/Acetate-Tow.aspx" name="Acetate Tow"></product>
+					<product id="e68dc36c-c4bc-4443-83cd-48cd567c7df3" url="/en/sitecore/content/Celanese/home/cellulose-derivatives/products/Acetate-Tow-Nonwoven.aspx" name="Acetate Tow Nonwoven"></product>
+					<product id="60a5492a-06d6-43e0-b9fe-0e141982572d" url="/en/sitecore/content/Celanese/home/cellulose-derivatives/products/Acetate-Film.aspx" name="Acetate Film"></product>
+				</bussinessunit>
+				<bussinessunit id="86b124e0-85cd-4b34-86ef-cf6579ca8a0d" url="/en/sitecore/content/Celanese/home/emulsion-polymers.aspx" name="Emulsion Polymers">
+					<product id="e6a14795-3a31-46c9-8ae9-00b1338a2053" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Apparel-dyeing-and-finishing-emulsions-america.aspx" name="Apparel Dyeing and Finishing Emulsions(americas)"></product>
+					<product id="8bc2193e-587c-4cbb-b3d3-17447494a77c" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Avicor.aspx" name="Avicor"></product>
+					<product id="37136c89-3ab0-4886-a271-a3fee84ad67d" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/BriteCoat.aspx" name="Britecoat"></product>
+					<product id="3e7b3015-89ee-4d52-b166-e296a772e366" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Carpet-backing-adhesivecoating-emulsions-americas.aspx" name="Carpet Backing Adhesivecoating Emulsions(americas)"></product>
+					<product id="81cd8ef2-66fc-497a-a35f-175c57568b53" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Celvaset.aspx" name="Celvaset"></product>
+					<product id="35ce84f8-f00f-43be-927e-6ed8ba6653d3" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Coalescent-americas.aspx" name="Coalescent(americas)"></product>
+					<product id="268f99ba-21d7-46d8-9d91-e944e4c31a55" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Disposable-nonwoven-emulsions-americas.aspx" name="Disposable Nonwoven Emulsions(americas)"></product>
+					<product id="468e5d8a-b7b6-47f4-807d-6011e961d822" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Durable-nonwoven-emulsions-americas.aspx" name="Durable Nonwoven Emulsions(americas)"></product>
+					<product id="60a412f7-9692-43fb-b1a7-5b59caf43037" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Dur-O-Cote.aspx" name="Dur O Cote"></product>
+					<product id="8fae401c-1e41-4913-8bfb-c1073c057dcc" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Dur-O-Set.aspx" name="Dur O Set"></product>
+					<product id="9a929d8d-3ee2-4a71-87df-bf4c4835e327" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/EcoVAE.aspx" name="Ecovae"></product>
+					<product id="f5687188-d4d9-4f98-adb9-9ef16cccf45b" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Exerior paints and primers americas.aspx" name="Exterior Paints and Primers(americas)"></product>
+					<product id="39a2d1aa-b717-4835-acfe-51b5e894c04c" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Fiberpad-nonwoven-emulsions-americas.aspx" name="Fiberpad Nonwoven Emulsions(americas)"></product>
+					<product id="d1429b40-755a-48f7-a936-b92d043bf885" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Flexbond.aspx" name="Flexbond"></product>
+					<product id="4f5a6d77-2a77-4afd-84f5-ca0b69b8b847" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Glass-fiber-secondary-binders-americas.aspx" name="Glass Fiber Secondary Binders(americas)"></product>
+					<product id="2b6e038e-8654-4344-840d-b6c782cb5a46" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Glass-fiber-sizing-polymers-americas.aspx" name="Glass Fiber Sizing Polymers(americas)"></product>
+					<product id="50eb929e-c6dd-47a7-a0c9-833d4bc56e92" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/High-loft-nonwoven-emulsions-americas.aspx" name="High Loft Nonwoven Emulsions(americas)"></product>
+					<product id="79e2dee2-51e5-469b-9caa-34837fd090b6" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/HiLoft.aspx" name="Hiloft"></product>
+					<product id="4258730c-dd5e-44d1-b065-4b0ba0eaa7ad" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Interior-wall-and-trim-paints-and-primers-americas.aspx" name="Interior Wall and Trim Paints and Primers(americas)"></product>
+					<product id="5ea22ebf-8c07-4096-b18e-bc2dbf789da5" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Low-VOC-paints-americas.aspx" name="Low Voc Paints(americas)"></product>
+					<product id="b156d502-6c86-47c9-9235-7ecbe5865876" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Nacrylic.aspx" name="Nacrylic"></product>
+					<product id="74c60a9e-91b7-4c73-9158-f4d165557ce2" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Paper-coating-emulsions-americas.aspx" name="Paper Coating Emulsions(americas)"></product>
+					<product id="618029e7-9808-494b-995f-1eaa3f78dd81" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Paper-packaging-and-converting-adhesives-americas.aspx" name="Paper Packaging and Converting Adhesives(americas)"></product>
+					<product id="a40e8f0d-b15f-44c1-815e-106cb09ad156" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Paper-saturationspecialties-emulsions-americas.aspx" name="Paper Saturationspecialties Emulsions(americas)"></product>
+					<product id="fd029baa-2b8b-4280-ab06-c53bbb3c07b0" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Paperboard-coating-emulsions-americas.aspx" name="Paperboard Coating Emulsions(americas)"></product>
+					<product id="ebd99cbc-09c0-4224-8445-f5676999a026" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Resyn.aspx" name="Resyn"></product>
+					<product id="34588722-4f0c-4d36-beee-71f1f0337838" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/TruModa.aspx" name="Trumoda"></product>
+					<product id="668a4a92-1d9d-49d3-9043-c1a3b2ca3be2" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/TufCOR.aspx" name="Tufcor"></product>
+					<product id="fb4afebf-a898-41a8-b47c-d7f783a952d8" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Vinac.aspx" name="Vinac"></product>
+					<product id="93ffcece-0344-400e-ad44-77c6b4b20ba0" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Vinamul.aspx" name="Vinamul"></product>
+					<product id="bdae7546-5eaa-4d51-b9d0-ea2956b47932" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Wood-coatings-americas.aspx" name="Wood Coatings(americas)"></product>
+					<product id="a9c6cb0d-fa13-48a0-a34a-1b0c7c93aaeb" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Woodworking-adhesives-americas.aspx" name="Woodworking Adhesives(americas)"></product>
+					<product id="245bf0d7-4138-4a0b-9b94-996ce91902a6" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/X-Link.aspx" name="X Link"></product>
+				</bussinessunit>
+				<bussinessunit id="94f097c4-b6c4-4df9-83c6-25323575b295" url="/en/sitecore/content/Celanese/home/eva-polymers.aspx" name="EVA Polymers">
+					<product id="da7d1380-5f96-4480-afe4-1ad9c0f9c0e8" url="/en/sitecore/content/Celanese/home/eva-polymers/products/Ateva.aspx" name="Ateva"></product>
+					<product id="f755dc90-5f3c-462f-b38a-9eca11ee488e" url="/en/sitecore/content/Celanese/home/eva-polymers/products/Ateva-G-Medical-Grade.aspx" name="Ateva G Medical Grade"></product>
+					<product id="0f8fc064-ac7a-4b19-9321-037b16b860fd" url="/en/sitecore/content/Celanese/home/eva-polymers/products/LDPE.aspx" name="LDPE"></product>
+					<product id="b4a13acc-2f54-4fac-8034-a541bd6e5fb4" url="/en/sitecore/content/Celanese/home/eva-polymers/products/VitalDose-Pharmaceutical-Grade.aspx" name="Vitaldose Pharmaceutical Grade"></product>
+				</bussinessunit>
+				<bussinessunit id="7c507fbd-6791-45e1-a9b8-62c155217ee5" url="/en/sitecore/content/Celanese/home/food-ingredients.aspx" name="Food Ingredients">
+					<product id="68cd529b-4aba-425f-84ad-8f5b4bd30435" url="/en/sitecore/content/Celanese/home/food-ingredients/products/Nutrinova-Potassium-Sorbates.aspx" name="Nutrinova Potassium Sorbates"></product>
+					<product id="cf8a74cd-89da-48a8-acee-dbadb55c6e4b" url="/en/sitecore/content/Celanese/home/food-ingredients/products/Nutrinova-Sorbic-Acid.aspx" name="Nutrinova Sorbic Acid"></product>
+					<product id="a9214a19-36bf-48e5-8c7a-61b57f70855f" url="/en/sitecore/content/Celanese/home/food-ingredients/products/Panosorb.aspx" name="Panosorb"></product>
+					<product id="1ca4e50e-a88d-4459-aa5c-595199a4b64a" url="/en/sitecore/content/Celanese/home/food-ingredients/products/Qorus.aspx" name="Qorus"></product>
+					<product id="83d150aa-92c4-4c97-a374-71dbacfda27f" url="/en/sitecore/content/Celanese/home/food-ingredients/products/Sunett.aspx" name="Sunett"></product>
+					<product id="f7324f8a-788e-41f9-b6b4-c4b1f1fd8ebb" url="/en/sitecore/content/Celanese/home/food-ingredients/products/Vinosorb.aspx" name="Vinosorb"></product>
+				</bussinessunit>
+				<bussinessunit id="afda9424-1a78-4685-a3ab-f66793756ad0" url="/en/sitecore/content/Celanese/home/engineered-materials.aspx" name="Engineered Materials">
+					<product id="550343af-1626-4fa9-83a0-5e7087ea1613" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Celanex--PBT.aspx" name="Celanex  PBT"></product>
+					<product id="e772a042-fd30-4321-9cae-f4897e24b4c0" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Celapex-PEEK.aspx" name="Celapex-PEEK"></product>
+					<product id="94eab79d-2ff5-4bd1-a3d1-9b83bec9cb67" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Celstran-CFRT.aspx" name="Celstran CFR-TP"></product>
+					<product id="faf79643-d296-4bbb-b0d6-aea901659ca9" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Celstran-LFRT.aspx" name="Celstran LFRT"></product>
+					<product id="3d0fa9a9-f2de-416e-a94b-4ffb230e360d" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Compel-LFRT.aspx" name="Compel LFRT"></product>
+					<product id="2da4eb37-4731-409c-b61f-22d632973f2f" url="/en/sitecore/content/Celanese/home/engineered-materials/products/CoolPoly.aspx" name="CoolPoly"></product>
+					<product id="52452717-9bf3-4e53-96b9-db1103539f41" url="/en/sitecore/content/Celanese/home/engineered-materials/products/CoolPoly-D-Series.aspx" name="CoolPoly D Series"></product>
+					<product id="c1a50840-9583-49e9-87cd-dcf0766e4786" url="/en/sitecore/content/Celanese/home/engineered-materials/products/CoolPoly-E-Series.aspx" name="Coolpoly E Series"></product>
+					<product id="b9f2949c-cd09-4011-918b-68c5a19fe1c2" url="/en/sitecore/content/Celanese/home/engineered-materials/products/CoolPoly-Elastomers.aspx" name="Coolpoly Elastomers"></product>
+					<product id="f78d8f38-041d-40d7-a8aa-911422dd6ce0" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Fortron-PPS.aspx" name="Fortron PPS"></product>
+					<product id="3a6e07ba-fd55-4ef7-b1e0-156acdf3bb6e" url="/en/sitecore/content/Celanese/home/engineered-materials/products/GUR-UHMW-PE.aspx" name="GUR UHMW PE"></product>
+					<product id="921cd0e5-b915-4078-bbb0-c8c1a9fd4c12" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Hostaform-POM--Celcon-POM.aspx" name="Hostaform POM  Celcon POM"></product>
+					<product id="d163a51c-2813-4777-84ca-a9ac49577137" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Impet--PET.aspx" name="Impet  PET"></product>
+					<product id="718045a6-2896-4d93-b9af-6ae8793c2266" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Riteflex-TPC-ET.aspx" name="Riteflex TPC ET"></product>
+					<product id="b55cca02-a331-4173-bf0e-fec5e34743b4" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Thermx--PCT.aspx" name="Thermx  PCT"></product>
+					<product id="68b0d1f0-2c13-48ce-ab1c-5628f9b2ffe2" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Vandar-PBT.aspx" name="Vandar PBT"></product>
+					<product id="9d60abb9-0d92-4899-a858-6ece03f2557e" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Vectra-LCPZenite-LCP.aspx" name="Vectra Lcpzenite LCP"></product>
+				</bussinessunit>
+			</bussinessunits>
+			<brands>
+				<groupname name="A-D">
+					<product id="da7d1380-5f96-4480-afe4-1ad9c0f9c0e8" url="/en/sitecore/content/Celanese/home/eva-polymers/products/Ateva.aspx" name="Ateva"></product>
+					<product id="f755dc90-5f3c-462f-b38a-9eca11ee488e" url="/en/sitecore/content/Celanese/home/eva-polymers/products/Ateva-G-Medical-Grade.aspx" name="Ateva G Medical Grade"></product>
+					<product id="8bc2193e-587c-4cbb-b3d3-17447494a77c" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Avicor.aspx" name="Avicor"></product>
+					<product id="37136c89-3ab0-4886-a271-a3fee84ad67d" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/BriteCoat.aspx" name="Britecoat"></product>
+					<product id="ee5ef6ad-3945-4468-a42b-a545a73911ad" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Butoxyl.aspx" name="Butoxyl"></product>
+					<product id="e68dc36c-c4bc-4443-83cd-48cd567c7df3" url="/en/sitecore/content/Celanese/home/cellulose-derivatives/products/Acetate-Tow-Nonwoven.aspx" name="Acetate Tow Nonwoven"></product>
+					<product id="550343af-1626-4fa9-83a0-5e7087ea1613" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Celanex--PBT.aspx" name="Celanex  PBT"></product>
+					<product id="e772a042-fd30-4321-9cae-f4897e24b4c0" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Celapex-PEEK.aspx" name="Celapex-PEEK"></product>
+					<product id="94eab79d-2ff5-4bd1-a3d1-9b83bec9cb67" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Celstran-CFRT.aspx" name="Celstran CFR-TP"></product>
+					<product id="faf79643-d296-4bbb-b0d6-aea901659ca9" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Celstran-LFRT.aspx" name="Celstran LFRT"></product>
+					<product id="81cd8ef2-66fc-497a-a35f-175c57568b53" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Celvaset.aspx" name="Celvaset"></product>
+					<product id="60a5492a-06d6-43e0-b9fe-0e141982572d" url="/en/sitecore/content/Celanese/home/cellulose-derivatives/products/Acetate-Film.aspx" name="Acetate Film"></product>
+					<product id="3d0fa9a9-f2de-416e-a94b-4ffb230e360d" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Compel-LFRT.aspx" name="Compel LFRT"></product>
+					<product id="2da4eb37-4731-409c-b61f-22d632973f2f" url="/en/sitecore/content/Celanese/home/engineered-materials/products/CoolPoly.aspx" name="CoolPoly"></product>
+					<product id="60a412f7-9692-43fb-b1a7-5b59caf43037" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Dur-O-Cote.aspx" name="Dur O Cote"></product>
+					<product id="8fae401c-1e41-4913-8bfb-c1073c057dcc" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Dur-O-Set.aspx" name="Dur O Set"></product>
+				</groupname>
+				<groupname name="E-H">
+					<product id="9a929d8d-3ee2-4a71-87df-bf4c4835e327" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/EcoVAE.aspx" name="Ecovae"></product>
+					<product id="d1429b40-755a-48f7-a936-b92d043bf885" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Flexbond.aspx" name="Flexbond"></product>
+					<product id="f78d8f38-041d-40d7-a8aa-911422dd6ce0" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Fortron-PPS.aspx" name="Fortron PPS"></product>
+					<product id="3a6e07ba-fd55-4ef7-b1e0-156acdf3bb6e" url="/en/sitecore/content/Celanese/home/engineered-materials/products/GUR-UHMW-PE.aspx" name="GUR UHMW PE"></product>
+					<product id="79e2dee2-51e5-469b-9caa-34837fd090b6" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/HiLoft.aspx" name="Hiloft"></product>
+					<product id="921cd0e5-b915-4078-bbb0-c8c1a9fd4c12" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Hostaform-POM--Celcon-POM.aspx" name="Hostaform POM  Celcon POM"></product>
+				</groupname>
+				<groupname name="I-L">
+					<product id="d163a51c-2813-4777-84ca-a9ac49577137" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Impet--PET.aspx" name="Impet  PET"></product>
+					<product id="0f8fc064-ac7a-4b19-9321-037b16b860fd" url="/en/sitecore/content/Celanese/home/eva-polymers/products/LDPE.aspx" name="LDPE"></product>
+				</groupname>
+				<groupname name="M-P">
+					<product id="b156d502-6c86-47c9-9235-7ecbe5865876" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Nacrylic.aspx" name="Nacrylic"></product>
+					<product id="68cd529b-4aba-425f-84ad-8f5b4bd30435" url="/en/sitecore/content/Celanese/home/food-ingredients/products/Nutrinova-Potassium-Sorbates.aspx" name="Nutrinova Potassium Sorbates"></product>
+					<product id="cf8a74cd-89da-48a8-acee-dbadb55c6e4b" url="/en/sitecore/content/Celanese/home/food-ingredients/products/Nutrinova-Sorbic-Acid.aspx" name="Nutrinova Sorbic Acid"></product>
+					<product id="a9214a19-36bf-48e5-8c7a-61b57f70855f" url="/en/sitecore/content/Celanese/home/food-ingredients/products/Panosorb.aspx" name="Panosorb"></product>
+					<product id="d4a3014f-6bec-4ae8-ae27-8dcbfdc82be6" url="/en/sitecore/content/Celanese/home/intermediate-chemistry/products/Polysolvan-O.aspx" name="Polysolvan O"></product>
+				</groupname>
+				<groupname name="Q-T">
+					<product id="1ca4e50e-a88d-4459-aa5c-595199a4b64a" url="/en/sitecore/content/Celanese/home/food-ingredients/products/Qorus.aspx" name="Qorus"></product>
+					<product id="ebd99cbc-09c0-4224-8445-f5676999a026" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Resyn.aspx" name="Resyn"></product>
+					<product id="718045a6-2896-4d93-b9af-6ae8793c2266" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Riteflex-TPC-ET.aspx" name="Riteflex TPC ET"></product>
+					<product id="83d150aa-92c4-4c97-a374-71dbacfda27f" url="/en/sitecore/content/Celanese/home/food-ingredients/products/Sunett.aspx" name="Sunett"></product>
+					<product id="b55cca02-a331-4173-bf0e-fec5e34743b4" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Thermx--PCT.aspx" name="Thermx  PCT"></product>
+					<product id="34588722-4f0c-4d36-beee-71f1f0337838" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/TruModa.aspx" name="Trumoda"></product>
+					<product id="668a4a92-1d9d-49d3-9043-c1a3b2ca3be2" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/TufCOR.aspx" name="Tufcor"></product>
+				</groupname>
+				<groupname name="U-Z">
+					<product id="68b0d1f0-2c13-48ce-ab1c-5628f9b2ffe2" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Vandar-PBT.aspx" name="Vandar PBT"></product>
+					<product id="9d60abb9-0d92-4899-a858-6ece03f2557e" url="/en/sitecore/content/Celanese/home/engineered-materials/products/Vectra-LCPZenite-LCP.aspx" name="Vectra Lcpzenite LCP"></product>
+					<product id="fb4afebf-a898-41a8-b47c-d7f783a952d8" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Vinac.aspx" name="Vinac"></product>
+					<product id="93ffcece-0344-400e-ad44-77c6b4b20ba0" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/Vinamul.aspx" name="Vinamul"></product>
+					<product id="f7324f8a-788e-41f9-b6b4-c4b1f1fd8ebb" url="/en/sitecore/content/Celanese/home/food-ingredients/products/Vinosorb.aspx" name="Vinosorb"></product>
+					<product id="b4a13acc-2f54-4fac-8034-a541bd6e5fb4" url="/en/sitecore/content/Celanese/home/eva-polymers/products/VitalDose-Pharmaceutical-Grade.aspx" name="Vitaldose Pharmaceutical Grade"></product>
+					<product id="245bf0d7-4138-4a0b-9b94-996ce91902a6" url="/en/sitecore/content/Celanese/home/emulsion-polymers/products/X-Link.aspx" name="X Link"></product>
+				</groupname>
+			</brands>
+			<productgroups>
+				<product id="e6a14795-3a31-46c9-8ae9-00b1338a2053" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Apparel-dyeing-and-finishing-emulsions-america.aspx" name="Apparel Dyeing and Finishing Emulsions(americas)"></product>
+				<product id="3e7b3015-89ee-4d52-b166-e296a772e366" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Carpet-backing-adhesivecoating-emulsions-americas.aspx" name="Carpet Backing Adhesivecoating Emulsions(americas)"></product>
+				<product id="35ce84f8-f00f-43be-927e-6ed8ba6653d3" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Coalescent-americas.aspx" name="Coalescent(americas)"></product>
+				<product id="268f99ba-21d7-46d8-9d91-e944e4c31a55" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Disposable-nonwoven-emulsions-americas.aspx" name="Disposable Nonwoven Emulsions(americas)"></product>
+				<product id="468e5d8a-b7b6-47f4-807d-6011e961d822" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Durable-nonwoven-emulsions-americas.aspx" name="Durable Nonwoven Emulsions(americas)"></product>
+				<product id="f5687188-d4d9-4f98-adb9-9ef16cccf45b" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Exerior paints and primers americas.aspx" name="Exterior Paints and Primers(americas)"></product>
+				<product id="39a2d1aa-b717-4835-acfe-51b5e894c04c" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Fiberpad-nonwoven-emulsions-americas.aspx" name="Fiberpad Nonwoven Emulsions(americas)"></product>
+				<product id="4f5a6d77-2a77-4afd-84f5-ca0b69b8b847" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Glass-fiber-secondary-binders-americas.aspx" name="Glass Fiber Secondary Binders(americas)"></product>
+				<product id="2b6e038e-8654-4344-840d-b6c782cb5a46" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Glass-fiber-sizing-polymers-americas.aspx" name="Glass Fiber Sizing Polymers(americas)"></product>
+				<product id="50eb929e-c6dd-47a7-a0c9-833d4bc56e92" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/High-loft-nonwoven-emulsions-americas.aspx" name="High Loft Nonwoven Emulsions(americas)"></product>
+				<product id="4258730c-dd5e-44d1-b065-4b0ba0eaa7ad" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Interior-wall-and-trim-paints-and-primers-americas.aspx" name="Interior Wall and Trim Paints and Primers(americas)"></product>
+				<product id="5ea22ebf-8c07-4096-b18e-bc2dbf789da5" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Low-VOC-paints-americas.aspx" name="Low Voc Paints(americas)"></product>
+				<product id="74c60a9e-91b7-4c73-9158-f4d165557ce2" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Paper-coating-emulsions-americas.aspx" name="Paper Coating Emulsions(americas)"></product>
+				<product id="618029e7-9808-494b-995f-1eaa3f78dd81" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Paper-packaging-and-converting-adhesives-americas.aspx" name="Paper Packaging and Converting Adhesives(americas)"></product>
+				<product id="a40e8f0d-b15f-44c1-815e-106cb09ad156" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Paper-saturationspecialties-emulsions-americas.aspx" name="Paper Saturationspecialties Emulsions(americas)"></product>
+				<product id="fd029baa-2b8b-4280-ab06-c53bbb3c07b0" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Paperboard-coating-emulsions-americas.aspx" name="Paperboard Coating Emulsions(americas)"></product>
+				<product id="bdae7546-5eaa-4d51-b9d0-ea2956b47932" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Wood-coatings-americas.aspx" name="Wood Coatings(americas)"></product>
+				<product id="a9c6cb0d-fa13-48a0-a34a-1b0c7c93aaeb" url="/en/sitecore/content/Celanese/home/emulsion-polymers/product-groups/Woodworking-adhesives-americas.aspx" name="Woodworking Adhesives(americas)"></product>
+			</productgroups>
+		</products>
+	</Americas>
+</file>
+

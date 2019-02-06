@@ -1,0 +1,9 @@
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeModel\bin\Release\netstandard2.0\EmployeeModel.deps.json
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeModel\bin\Release\netstandard2.0\EmployeeModel.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeModel\bin\Release\netstandard2.0\EmployeeModel.pdb
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeModel\obj\Release\netstandard2.0\EmployeeModel.csprojAssemblyReference.cache
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeModel\obj\Release\netstandard2.0\EmployeeModel.csproj.CoreCompileInputs.cache
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeModel\obj\Release\netstandard2.0\EmployeeModel.AssemblyInfoInputs.cache
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeModel\obj\Release\netstandard2.0\EmployeeModel.AssemblyInfo.cs
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeModel\obj\Release\netstandard2.0\EmployeeModel.dll
+C:\Users\madhuri.a\Documents\Visual Studio 2017\Projects\EmployeeWebApi\EmployeeModel\obj\Release\netstandard2.0\EmployeeModel.pdb

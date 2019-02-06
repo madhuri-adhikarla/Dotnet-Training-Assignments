@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@model EmployeeModel.DeptModel
+@using (Html.BeginForm("SearchResults", "Employees", FormMethod.Post))
+{
+    @Html.Label("DepartmentName", "Department")
+}
+

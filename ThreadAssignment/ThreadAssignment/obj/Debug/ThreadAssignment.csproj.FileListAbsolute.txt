@@ -1,0 +1,7 @@
+D:\VSCODE\ThreadAssignment\ThreadAssignment\obj\Debug\ThreadAssignment.csprojAssemblyReference.cache
+D:\VSCODE\ThreadAssignment\ThreadAssignment\obj\Debug\ThreadAssignment.csproj.CoreCompileInputs.cache
+D:\VSCODE\ThreadAssignment\ThreadAssignment\bin\Debug\ThreadAssignment.exe.config
+D:\VSCODE\ThreadAssignment\ThreadAssignment\bin\Debug\ThreadAssignment.exe
+D:\VSCODE\ThreadAssignment\ThreadAssignment\bin\Debug\ThreadAssignment.pdb
+D:\VSCODE\ThreadAssignment\ThreadAssignment\obj\Debug\ThreadAssignment.exe
+D:\VSCODE\ThreadAssignment\ThreadAssignment\obj\Debug\ThreadAssignment.pdb
